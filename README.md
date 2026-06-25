@@ -22,7 +22,7 @@ I'd touch grass, but the code won't write itself.
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Securoxen](https://securoxen.io)** ⭐ | Breach monitoring + incident response — tells you *why* you were exposed and how to fix it. | React · Flask · Supabase |
+| **[Securoxen](https://securoxen.io)** | Breach monitoring + incident response — tells you *why* you were exposed and how to fix it. | React · Flask · Supabase |
 | **[vapor](https://github.com/USERNAME/vapor)** | Immutable Alpine-based desktop OS that boots entirely in RAM — privacy-first, reproducible, fast XFCE dev loop. | Shell · Alpine |
 | **[PlotLine](https://github.com/USERNAME/PlotLine)** | Geospatial OSINT tool that reconstructs movement from location data. | Python |
 | **[zeno-ledgr](https://github.com/USERNAME/zeno-ledgr)** | Privacy-first subscription & billing manager with end-to-end, client-side encryption. | Next.js · FastAPI · Supabase |
@@ -30,7 +30,7 @@ I'd touch grass, but the code won't write itself.
 | **[endpoint-audit](https://github.com/USERNAME/endpoint-audit)** | Authorized-use Windows endpoint audit demo — in-app logger, headless agent, optional server ingestion. | Python |
 | **[PureSign](https://github.com/USERNAME/PureSign)** | AI forensic signature extraction & verification. | TypeScript · YOLOv11 · CycleGAN |
 
-> ⭐ **Securoxen** is what I'm building right now — my main focus.
+> ⭐ **Securoxen** is what I'm building right now.
 
 ### Contact
 
