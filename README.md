@@ -7,6 +7,7 @@ I'm a builder at heart. I'd rather ship and iterate than plan forever, I like cl
 I learn by building. Most of what I know came from breaking something, figuring out why, and fixing it. 
 
 I'd touch grass, but the code won't write itself.
+
 ---
 
 ### What I work with
